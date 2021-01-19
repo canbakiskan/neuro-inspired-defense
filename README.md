@@ -21,7 +21,7 @@ export PYTHONPATH="${PYTHONPATH}:/path/containing/project/directory"
 Download Imagenette [here](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2-160.tgz), and place in the `data/original_dataset/`. Then extract it using `tar -xvzf imagenette2-160.tgz`.
 CIFAR-10 will be downloaded automatically when the code is run.
 
-Following commands assume the name of the folder is `neuro-inspired-defense`.
+Following commands assume the name of the folder is `neuro-inspired-defense` and you are currently in it.
 
 ## Dictionary
 
